@@ -7,6 +7,6 @@
 </head>
 <body>
     <nav>@yield('menu')</nav>
-    <h1>@yield('content')</h1>
+    @yield('content')
 </body>
 </html>

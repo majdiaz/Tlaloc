@@ -1,8 +1,8 @@
 @extends('layouts.plantilla')
-@section('title','Solicitudes')
+@section('title','Mis Solicitudes')
 @section('menu')
     @extends('layouts.navs.menuJefeS')
 @endsection
 @section('content')
-    <h1>Página donde se muestran las solicitudes por asignar</h1>
+    <h1>Página donde se muestran mis solicitudes JEFE DE SERVICIOS</h1>
 @endsection
