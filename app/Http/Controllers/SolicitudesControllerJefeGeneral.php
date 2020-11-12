@@ -8,7 +8,7 @@ class SolicitudesControllerJefeGeneral extends Controller
 {   
     //metodo para formulario
     public function create(){
-        return view('JefeGeneral.solicitudes.crearSolicitud');
+        return view('JefeGeneral.solicitudes.crearSolicitudJG');
     }
     
     public function show(){
