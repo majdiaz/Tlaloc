@@ -10,11 +10,11 @@
       font-size:16px;
     }
     body {
-      background:#eee;
+      background:#EAEBCE;
       font-family:verdana;
     }
     h1 {
-      color:#c0c;
+      color:#DB7800;
       font-size:24px;
     }
     p {
@@ -24,7 +24,7 @@
       list-style-type:none;
     }
     #cabecera {
-      color:#F1A613;
+      color:#DB7800;
       aling:"center";
       background-color:#F7EDEB;
       padding:55px;
